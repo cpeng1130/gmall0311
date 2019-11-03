@@ -1,0 +1,17 @@
+com\atguigu\gmall0311\bean\BaseSaleAttr.class
+com\atguigu\gmall0311\bean\UserInfo.class
+com\atguigu\gmall0311\bean\SkuImage.class
+com\atguigu\gmall0311\bean\SkuLsResult.class
+com\atguigu\gmall0311\bean\SpuSaleAttrValue.class
+com\atguigu\gmall0311\bean\SkuLsAttrValue.class
+com\atguigu\gmall0311\bean\SkuInfo.class
+com\atguigu\gmall0311\bean\UserAddress.class
+com\atguigu\gmall0311\bean\SkuSaleAttrValue.class
+com\atguigu\gmall0311\bean\SkuLsInfo.class
+com\atguigu\gmall0311\bean\SpuInfo.class
+com\atguigu\gmall0311\bean\PaymentInfo.class
+com\atguigu\gmall0311\bean\CartInfo.class
+com\atguigu\gmall0311\bean\SkuLsParams.class
+com\atguigu\gmall0311\bean\SpuImage.class
+com\atguigu\gmall0311\bean\SkuAttrValue.class
+com\atguigu\gmall0311\bean\SpuSaleAttr.class
